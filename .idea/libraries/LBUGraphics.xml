@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LBUGraphics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/LBUGraphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
